@@ -1,0 +1,57 @@
+{
+  "blog": [
+    {
+      "id": "7a0b",
+      "title": "Exclusive Bigg boss 17 :  she and Samarth Jurel, a contestant on Bigg Boss 17, did break up.",
+      "description": "Malaviya began surfing in 2007 after meeting a German exchange student. She currently runs a surf club named the Shaka Surf Club as well as a camp called Camp Namaloha in Coastal Karnataka in India.[1] The camp, together with the Australian Life Saving Society and Rashitriya Life Saving Society, established the \"Nippers Program\" for training junior life guards.[2]\n\nMalaviya, along with her high school friend and boyfriend Tushar Pathiyan, runs the surf club from the village of Kodi Bengre, located on the Konkan Coast.[1][3] As of 2014, she is the only Indian to be appointed as a brand ambassador for Roxy surfwear.[4]",
+      "name": "- The Times of India",
+      "Category": "Business"
+    },
+    {
+      "id": "9577",
+      "title": "Samsung Galaxy S25 Ultra Leaked Dummy Units Hint at Slimmer Design With Rounded Corners",
+      "description": "Samsung Galaxy S25 series is expected to go official in early 2025 with three models — the Galaxy S25, Galaxy S25+ and Galaxy S25 Ultra. While the launch is not likely to take place for a few more months, purported details related to the design of the top-of-the-line Galaxy S25 Ultra model have already been spotted online. Amid these speculations, dummy units of the handset have surfaced online, giving us an idea about the handset's dimensions. The Galaxy S25 Ultra is tipped to be thinner, and taller than the Galaxy S24 Ultra.\n\nSamsung Galaxy S25 Ultra Dummy Hint at Refined Design\nTipster @xleaks7 leaked images and videos of the aluminium dummy unit of the Samsung Galaxy S25 Ultra in collaboration with Online Solitaire. The dummy unit is said to measure 162.82x77.65x8.25mm. This indicates that the purported device is slightly taller, narrower, and thinner than the Galaxy S24 Ultra. The existing model measures 162.3x79.0x8.6mm. The latest leak aligns with redesign claims made by tipster Ice Universe.\n\nThe dummy unit of the alleged Galaxy S25 Ultra boasts noticeably rounded corners and slim bezels. The display has a hole punch cutout for the front camera and an earpiece speaker at the top of the screen.",
+      "name": "NDTV",
+      "Category": "Technology"
+    },
+    {
+      "id": "76f7",
+      "title": "CBSE Issues Show-Cause Notices To 27 Schools In Rajasthan And Delhi For Violating Bye-Laws",
+      "description": "New Delhi:\nThe Central Board of Secondary Education (CBSE) has issued a show cause notice to 27 schools from regions of Delhi and Ajmer. The notices have been issued to 22 schools from two regions of Delhi and five from Ajmer. The notices require the schools to provide clarifications regarding their enrollment practices, adherence to infrastructural standards and other norms of the Board. \n\nThe board had initiated strong action after its surprise inspections conducted at 27 schools affiliated with it in Rajasthan and the NCT of Delhi.\n\nDuring these inspections, several violations of the Board's Bye-Laws were identified, particularly concerning the enrollment and attendance practices of these institutions.\n\nAn official notification by CBSE reads, \"The inspections revealed that schools had enrolled a higher number of students in class 11 and 12, who are not physically attending the classes. Moreover, discrepancies were noted in the attendance records maintained by these schools, casting doubt on their compliance with CBSE regulations. It was also found that some institutions were flouting infrastructural norms set forth by the Board, compromising the quality of education and safety for students.\"\nCBSE remains committed to ensuring the highest standards of education and will continue to rigorously monitor compliance across all its institutions, the notification added.",
+      "name": "NDTV edu",
+      "Category": "Science"
+    },
+    {
+      "id": "c60b",
+      "title": "Gratitude enhances health, brings happiness — and may even lengthen lives",
+      "description": "Several evenings a week, as Tyler VanderWeele gathers around the dinner table with his wife and two young kids, the family deliberately pauses during the meal to do something simple but profound. Each member shares several things for which they're grateful — an act that VanderWeele, co-director of the Initiative on Health, Spirituality, and Religion at the Harvard T.H. Chan School of Public Health, feels changes his family dynamic for the better.\n\nI do think it makes a difference and can be a very powerful practice,\" he says. \"Even on those bad days where life seems difficult, that effort is worthwhile.\"\n\n",
+      "name": "Harvard University",
+      "Category": "Health"
+    },
+    {
+      "id": "787d",
+      "title": "Health magazine’s nutrition section offers nutritionist-researched articles on foods, diets,\n",
+      "Category": "Health",
+      "description": "Healthline’s nutrition blog features daily research-based articles on nutrition and weight loss. Learn about foods you should eat more of, foods to avoid, and the scientific reasoning behind everything the site teaches you.\n\nNutrition Stripped is a website founded by Registered Dietitian McKel Kooienga. She shares articles on trending nutrition topics using science to teach readers about popular food subjects and diet habits.\n\nThe Oh She Glows blog features vegan recipes, most of which are also free of gluten, soy, and processed food. Recipes are accompanied by founder and cookbook author Angela Liddon’s inspirations and insights.",
+      "name": "WHO org"
+    }
+  ],
+  "category": [
+    {
+      "id": "9f42",
+      "name": "Business"
+    },
+    {
+      "id": "032e",
+      "name": "Technology"
+    },
+    {
+      "id": "cc03",
+      "name": "Science"
+    },
+    {
+      "id": "4d98",
+      "name": "Health"
+    }
+  ]
+}
